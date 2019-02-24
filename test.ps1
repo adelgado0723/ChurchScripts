@@ -51,7 +51,8 @@ if($USBDrive)
 			}
 			
 			# Send file(s) to HandBrake
-		
+			
+			# Delete file(s) on memory card
 		}
 		else
 		{
