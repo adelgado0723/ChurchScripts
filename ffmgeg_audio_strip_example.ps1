@@ -1,2 +1,1 @@
-C:\Users\Sanctuary\Documents\ffmpeg\ffmpeg-20190303-73b62f3-win64-static\bin\ffmpeg.exe -i C:\Users\Sanctuary\Documents\Audio\Sermons\2019\03-10-2019\video.MP4 -vn -ac 2 -ar 44
-100 -ab 192k -f mp3 C:\Users\Sanctuary\Documents\RecordedVideos\Sermons\2019\03-10-19\audio.mp3
+C:\Users\Sanctuary\Documents\ffmpeg\ffmpeg-20190303-73b62f3-win64-static\bin\ffmpeg.exe -i C:\Users\Sanctuary\Documents\Audio\Sermons\2019\03-17-2019\1000.MP4 -vn -ac 2 -ar 44100 -ab 192k -f mp3 C:\Users\Sanctuary\Documents\RecordedVideos\Sermons\2019\03-17-2019\1000.mp3

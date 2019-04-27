@@ -1,0 +1,4 @@
+# Concatanate
+file 'E:\DCIM\350_0426\hero_1.MP4'
+file 'E:\DCIM\350_0426\hero_2.MP4'
+file 'E:\DCIM\350_0426\hero_3.MP4'
